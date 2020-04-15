@@ -1,2 +1,1 @@
-Ahoj svet.
-42
+## Matika inak
