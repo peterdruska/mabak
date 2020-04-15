@@ -1,0 +1,2 @@
+Ahoj svet.
+42
